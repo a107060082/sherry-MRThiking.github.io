@@ -11,6 +11,7 @@ font-family: 'Noto Sans TC', sans-serif;
 }
 
 .bg-primary {
-    background-color: #00966c
-    background-image: url(../assets/img/wild-flowers.png)
+background-color: #00966c;
+background-image: url("https://www.transparenttextures.com/patterns/wild-flowers.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
